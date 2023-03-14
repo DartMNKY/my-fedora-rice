@@ -1,5 +1,6 @@
 # my-fedora-rice
 Default GNOME but tweaked a bit to my taste
+![Simple preview of my custom desktop](preview.png)
 ## Settings:
 ### Date & Time:
 Time format: AM/PM (a.k.a 12-hour format)
